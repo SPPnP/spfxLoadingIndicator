@@ -1,14 +1,12 @@
 ## spfx-loading-indicator
 
-This is where you include your WebPart documentation.
+Sample SharePoint Framework (SPFx) webpart that demonstrates taking advantage of the Loading Indicator.
 
 ### Building the code
 
 ```bash
 git clone the repo
 npm i
-npm i -g gulp
-gulp
 ```
 
 This package produces the following:
@@ -17,10 +15,6 @@ This package produces the following:
 * dist/* - the bundled script, along with other resources
 * deploy/* - all resources which should be uploaded to a CDN.
 
-### Build options
+### To Run
 
-gulp clean - TODO
-gulp test - TODO
-gulp serve - TODO
-gulp bundle - TODO
-gulp package-solution - TODO
+gulp serve
