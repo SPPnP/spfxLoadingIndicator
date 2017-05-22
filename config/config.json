@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/loadingIndicator/LoadingIndicatorWebPart.js",
+      "manifest": "./src/webparts/loadingIndicator/LoadingIndicatorWebPart.manifest.json",
+      "outputPath": "./dist/loading-indicator.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "loadingIndicatorStrings": "webparts/loadingIndicator/loc/{locale}.js"
+  }
+}

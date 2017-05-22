@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "<!-- STORAGE ACCOUNT NAME -->",
+  "container": "spfx-loading-indicator",
+  "accessKey": "<!-- ACCESS KEY -->"
+}

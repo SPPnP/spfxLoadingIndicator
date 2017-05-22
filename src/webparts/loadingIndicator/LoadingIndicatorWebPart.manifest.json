@@ -1,0 +1,21 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "4a5131fb-4479-4b61-aaf9-e0c5a1baac3b",
+  "alias": "LoadingIndicatorWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "4a5131fb-4479-4b61-aaf9-e0c5a1baac3b",
+    "group": { "default": "Under Development" },
+    "title": { "default": "Loading Indicator" },
+    "description": { "default": "Loading Indicator Example" },
+    "officeFabricIconFontName": "WorkFlow",
+    "properties": {
+      "ShowLoading": true,
+      "LoadingText": "Some Stuff"
+    }
+  }]
+}

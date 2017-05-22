@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-loading-indicator-client-side-solution",
+    "id": "abe6acae-c46d-4c71-97b7-2833da97e688",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-loading-indicator.sppkg"
+  }
+}
