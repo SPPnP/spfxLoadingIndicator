@@ -1,6 +1,6 @@
 ## spfx-loading-indicator
 
-Sample SharePoint Framework (SPFx) webpart that demonstrates taking advantage of the Loading Indicator.
+Sample SharePoint Framework (SPFx) webpart that demonstrates taking advantage of the Loading Indicator. More details can be found here: https://thechriskent.com/2017/05/22/taking-advantage-of-the-loading-indicator-in-the-sharepoint-framework/
 
 ### Building the code
 
